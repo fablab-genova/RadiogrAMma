@@ -1,0 +1,66 @@
+{
+  "_from": "git+https://github.com/homerours/cordova-music-controls-plugin.git",
+  "_id": "cordova-plugin-music-controls@2.1.4",
+  "_inBundle": false,
+  "_integrity": "sha1-l8gEdXluf3HmoIU4ywEwiTQlxh4=",
+  "_location": "/cordova-plugin-music-controls",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "git",
+    "raw": "https://github.com/homerours/cordova-music-controls-plugin",
+    "rawSpec": "https://github.com/homerours/cordova-music-controls-plugin",
+    "saveSpec": "git+https://github.com/homerours/cordova-music-controls-plugin.git",
+    "fetchSpec": "https://github.com/homerours/cordova-music-controls-plugin.git",
+    "gitCommittish": "master"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "git+https://github.com/homerours/cordova-music-controls-plugin.git#5417e4f73e8da0cf5eb4cada92daefd9f1be7df3",
+  "_spec": "https://github.com/homerours/cordova-music-controls-plugin",
+  "_where": "C:\\Users\\T3500\\Desktop\\radio",
+  "author": {
+    "name": "homerours"
+  },
+  "bugs": {
+    "url": "https://github.com/homerours/cordova-music-controls-plugin/issues"
+  },
+  "bundleDependencies": false,
+  "cordova": {
+    "id": "cordova-plugin-music-controls",
+    "platforms": [
+      "android",
+      "windows",
+      "ios"
+    ]
+  },
+  "deprecated": false,
+  "description": "Music controls for Cordova apps",
+  "engines": [
+    {
+      "name": "cordova",
+      "version": ">=3.4.0"
+    }
+  ],
+  "homepage": "https://github.com/homerours/cordova-music-controls-plugin#readme",
+  "keywords": [
+    "cordova",
+    "music",
+    "controller",
+    "controls",
+    "media",
+    "plugin",
+    "notification",
+    "ecosystem:cordova",
+    "cordova-android",
+    "cordova-windows"
+  ],
+  "license": "MIT",
+  "name": "cordova-plugin-music-controls",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/homerours/cordova-music-controls-plugin.git"
+  },
+  "version": "2.1.4"
+}

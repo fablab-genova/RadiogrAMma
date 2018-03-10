@@ -1,0 +1,31 @@
+{
+  "prepare_queue": {
+    "installed": [],
+    "uninstalled": []
+  },
+  "config_munge": {
+    "files": {}
+  },
+  "installed_plugins": {
+    "cordova-plugin-whitelist": {
+      "PACKAGE_NAME": "com.test.radiogramma"
+    },
+    "cordova-plugin-media": {
+      "PACKAGE_NAME": "com.test.radiogramma"
+    },
+    "cordova-plugin-music-controls": {
+      "PACKAGE_NAME": "com.test.radiogramma"
+    },
+    "cordova-plugin-streaming": {
+      "PACKAGE_NAME": "com.buridda.radiogramma"
+    }
+  },
+  "dependent_plugins": {
+    "cordova-plugin-file": {
+      "PACKAGE_NAME": "com.test.radiogramma"
+    },
+    "cordova-plugin-badge": {
+      "PACKAGE_NAME": "com.test.radiogramma"
+    }
+  }
+}

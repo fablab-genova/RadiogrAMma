@@ -1,0 +1,94 @@
+{
+  "_args": [
+    [
+      {
+        "raw": "cordova-plugin-streaming",
+        "scope": null,
+        "escapedName": "cordova-plugin-streaming",
+        "name": "cordova-plugin-streaming",
+        "rawSpec": "",
+        "spec": "latest",
+        "type": "tag"
+      },
+      "C:\\Users\\lsita\\Desktop\\radio"
+    ]
+  ],
+  "_from": "cordova-plugin-streaming@latest",
+  "_id": "cordova-plugin-streaming@1.4.0",
+  "_inCache": true,
+  "_location": "/cordova-plugin-streaming",
+  "_nodeVersion": "5.4.1",
+  "_npmOperationalInternal": {
+    "host": "packages-12-west.internal.npmjs.com",
+    "tmp": "tmp/cordova-plugin-streaming-1.4.0.tgz_1462553327025_0.8123692718800157"
+  },
+  "_npmUser": {
+    "name": "mradosta",
+    "email": "mradosta@pragmatia.com"
+  },
+  "_npmVersion": "3.5.3",
+  "_phantomChildren": {},
+  "_requested": {
+    "raw": "cordova-plugin-streaming",
+    "scope": null,
+    "escapedName": "cordova-plugin-streaming",
+    "name": "cordova-plugin-streaming",
+    "rawSpec": "",
+    "spec": "latest",
+    "type": "tag"
+  },
+  "_requiredBy": [
+    "#USER",
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/cordova-plugin-streaming/-/cordova-plugin-streaming-1.4.0.tgz",
+  "_shasum": "ab49bc8f04d43c1e37fed6aaa06f1dd70cf509c2",
+  "_shrinkwrap": null,
+  "_spec": "cordova-plugin-streaming",
+  "_where": "C:\\Users\\lsita\\Desktop\\radio",
+  "author": {
+    "name": "Martin Radosta"
+  },
+  "bugs": {
+    "url": "https://github.com/mradosta/cordova-plugin-streaming/issues"
+  },
+  "cordova": {
+    "id": "cordova-plugin-streaming",
+    "platforms": [
+      "android"
+    ]
+  },
+  "dependencies": {},
+  "description": "Streaming Plugin",
+  "devDependencies": {},
+  "directories": {},
+  "dist": {
+    "shasum": "ab49bc8f04d43c1e37fed6aaa06f1dd70cf509c2",
+    "tarball": "https://registry.npmjs.org/cordova-plugin-streaming/-/cordova-plugin-streaming-1.4.0.tgz"
+  },
+  "gitHead": "00e459e56ed2aa8b6e7e80fe744f83d7753a0cd8",
+  "homepage": "https://github.com/mradosta/cordova-plugin-streaming#readme",
+  "keywords": [
+    "streaming",
+    "radio",
+    "libaacdecoder",
+    "ecosystem:cordova",
+    "cordova-android"
+  ],
+  "license": "Apache 2.0",
+  "maintainers": [
+    {
+      "name": "mradosta",
+      "email": "mradosta@pragmatia.com"
+    }
+  ],
+  "name": "cordova-plugin-streaming",
+  "optionalDependencies": {},
+  "readme": "ERROR: No README data found!",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/mradosta/cordova-plugin-streaming.git"
+  },
+  "scripts": {},
+  "version": "1.4.0"
+}
